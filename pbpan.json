@@ -1,0 +1,12 @@
+[
+  {
+  "name": "pbpan",
+  "logo": "",
+  "desc": "",
+  "nsfw": false,
+  "api": {
+    "root": "https://dh.ha.cn",
+    "path": "/api.php/provide/vod/at/xml/"
+  }
+}
+]
