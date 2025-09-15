@@ -1,0 +1,21 @@
+#https://www.pbpan.com/ 瀑布盘
+XML接口：https://dh.ha.cn/api.php/provide/vod/at/xml/
+
+JSON接口：https://dh.ha.cn/api.php/provide/vod/at/josn/
+
+#http://www.ffzy.tv/
+
+[
+  {
+  "name": "百度资源",
+  "logo": "",
+  "desc": "",
+  "nsfw": false,
+  "api": {
+    "root": " https://cj.apibdzy.com",
+    "path": "/inc/api.php"
+  }
+}
+]
+
+json:https://api.apibdzy.com/api.php/provide/vod/?ac=list
