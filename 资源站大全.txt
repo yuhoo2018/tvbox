@@ -49,3 +49,16 @@ P2P商业加速解析 https://www.xinlangjiexi.com/m3u8/?url=
 
 QQ群：835137996hnzy | 小飞机群：https://t.me/xinlangzy
 =====================
+紧急公告： >>> 2024.03.16有替换,请点击进入查看 <<<
+采集教程请参阅: 采集帮助中心  频道订阅号: 点击快速加入   今更新视频:205部,本视频共:147061部
+新播放解析接口: https://jiexi.semaozy.cc/m3u8/?url=
+
+不再使用播放解析接口: 换https://jiexi.99mao.xyz/m3u8/?url= 此解析已作废
+
+通用采集接口xml:https://caiji.semaozy.net/inc/api.php
+
+通用采集接口josn:https://caiji.semaozy.net/inc/apijson_vod.php
+
+公告：2024-03-16， 播放域名semaobf1.com替换smyoukuits.com
+公告：2024-03-30， 播放域名smyoukuits.com替换hntvoss.com
+2024.03.16 去解析版播放器,一键导入:苹果10cms下载- 苹果8cms下载- 定时采集助手
