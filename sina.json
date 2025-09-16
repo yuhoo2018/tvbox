@@ -1,0 +1,12 @@
+[
+  {
+  "name": "新浪资源",
+  "logo": "",
+  "desc": "",
+  "nsfw": true,
+  "api": {
+    "root": "https://api.xinlangapi.com",
+    "path": "/xinlangapi.php/provide/vod/at/xml/"
+  }
+}
+]
