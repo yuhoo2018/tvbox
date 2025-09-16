@@ -1,0 +1,13 @@
+茅台资源站 ：mtzy.me   备用网址 ：mtzy0.com(0-7)均可使用
+最新m3u8解析接口 ：https://mtjiexi.cc:966/?url=
+备用m3u8解析接口 ：https://maotaijiexi.com:669/?url=
+因部分地区网络限制，原播放域名  dgjrq.cn  已升级为  myqqdd.com  
+P2P商业加速解析：https://mtjiexi.cc:966/?url=
+加速解析（备用）：https://www.mtjiexi.cc:966/?url=
+茅台资源josn接口：https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/
+茅台资源m3u8 josn接口:  https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/
+茅台资源m3u8 xml接口:  https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/
+茅台资源m3u8 xml备用接口：https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/
+茅台资源文章采集接口：https://caiji.maotaizy.cc/api.php/provide/art/
+
+ =====================
