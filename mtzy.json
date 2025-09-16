@@ -3,7 +3,7 @@
   "name": "茅台资源",
   "logo": "",
   "desc": "",
-  "nsfw": yes,
+  "nsfw": true,
   "api": {
     "root": "https://caiji.maotaizy.cc",
     "path": "/api.php/provide/vod/at/josn/"
