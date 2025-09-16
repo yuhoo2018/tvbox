@@ -1,0 +1,12 @@
+[
+  {
+  "name": "色猫资源",
+  "logo": "",
+  "desc": "",
+  "nsfw": true,
+  "api": {
+    "root": "https://caiji.semaozy.net",
+    "path": "/inc/apijson_vod.php"
+  }
+}
+]
