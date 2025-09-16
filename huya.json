@@ -1,0 +1,12 @@
+[
+  {
+  "name": "虎牙资源",
+  "logo": "",
+  "desc": "",
+  "nsfw": true,
+  "api": {
+    "root": "https://www.huyaapi.com",
+    "path": "/api.php/provide/vod/at/json"
+  }
+}
+]
